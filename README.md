@@ -37,10 +37,10 @@
 
 ## 📫 How to Reach Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
